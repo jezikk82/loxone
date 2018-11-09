@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ControlList Version="74" NextObj="1" NextConst="1" NextNote="1" NextMem="1">
+	<C Type="Document" V="70" U="21d82ca7-5361-11df-9d6ab16e5930d105" Title="cal_PL" Font="Arial" FontSize="8" SPSfreq="50" OpenIsHigh="false" CalenderOnly="true" Date="2014-03-13 21:26:11" DateS="163977971" Town="Krakow" Ctry="" Latitude="50.07" Longitude="19.93" Creator="Jezierski.IT" Currency="PLN"/>
+	<C Type="CalendarCaption" V="70" U="21d82ca7-5361-11df-9d6db16e5930d105" Title="Kalendarz"/>
+	<C Type="CalendarEntry" V="70" U="06c40a30-7e59-11e1-bbabfa9ce16473cb" Title="Sezon grzewczy" Nio="2" CalType="10" Mode="4" Month="10" Day="1" Month2="4" Day2="1" WeekDayInMonth="1">
+		<Co K="I" U="06c40a31-7e59-11e1-bbabfa9ce16473cb"/>
+		<Co K="Q" U="06c40a30-7e59-11e1-bbacfa9ce16473cb"/>
+	</C>
+	<C Type="CalendarEntry" V="70" U="06c43141-7e59-11e1-bbacfa9ce16473cb" Title="Sezon chłodzenia" Nio="2" CalType="11" Mode="4" Month="5" Day="1" Month2="9" Day2="30" WeekDayInMonth="1">
+		<Co K="I" U="06c43142-7e59-11e1-bbacfa9ce16473cb"/>
+		<Co K="Q" U="06c43141-7e59-11e1-bbadfa9ce16473cb"/>
+	</C>
+	<C Type="CalendarEntry" V="70" U="b18873ee-7e61-11e1-b511f20f692e0d8a" Title="Nowy Rok" Nio="2" Month="1" Day="1" Month2="1" Day2="1" WeekDayInMonth="1">
+		<Co K="I" U="b18873ed-7e61-11e1-b512f20f692e0d8a"/>
+		<Co K="Q" U="b18873ee-7e61-11e1-b512f20f692e0d8a"/>
+	</C>
+	<C Type="CalendarEntry" V="70" U="b3cc978e-7e61-11e1-b551f20f692e0d8a" Title="Święto Trzech Króli" Nio="2" Month="1" Day="6" Month2="1" Day2="1" WeekDayInMonth="1">
+		<Co K="I" U="b3cc978d-7e61-11e1-b552f20f692e0d8a"/>
+		<Co K="Q" U="b3cc978e-7e61-11e1-b552f20f692e0d8a"/>
+	</C>
+	<C Type="CalendarEntry" V="70" U="b4772f6e-7e61-11e1-b592f20f692e0d8a" Title="Wielkanoc" Nio="2" Mode="1" Month="1" Day="1" Month2="1" Day2="1" EasterOffset="0" WeekDayInMonth="1">
+		<Co K="I" U="b4772f6d-7e61-11e1-b593f20f692e0d8a"/>
+		<Co K="Q" U="b4772f6e-7e61-11e1-b593f20f692e0d8a"/>
+	</C>
+	<C Type="CalendarEntry" V="70" U="b4772f6e-7e61-11e1-b592f20f692e0d8a" Title="Poniedziałek Wielkanocny" Nio="2" Mode="1" Month="1" Day="1" Month2="1" Day2="1" EasterOffset="1" WeekDayInMonth="1">
+		<Co K="I" U="b4772f6d-7e61-11e1-b593f20f692e0d8a"/>
+		<Co K="Q" U="b4772f6e-7e61-11e1-b593f20f692e0d8a"/>
+	</C>
+	<C Type="CalendarEntry" V="70" U="b4db968e-7e61-11e1-b5d4f20f692e0d8a" Title="Święto Pracy" Nio="2" Month="5" Day="1" Month2="1" Day2="1" WeekDayInMonth="1">
+		<Co K="I" U="b4db968d-7e61-11e1-b5d5f20f692e0d8a"/>
+		<Co K="Q" U="b4db968e-7e61-11e1-b5d5f20f692e0d8a"/>
+	</C>
+	<C Type="CalendarEntry" V="70" U="b538aaad-7e61-11e1-b61ef20f692e0d8a" Title="Święto Konstytucji 3 Maja" Nio="2" Month="5" Day="3" Month2="1" Day2="1" WeekDayInMonth="1">
+		<Co K="I" U="b538aaae-7e61-11e1-b61ef20f692e0d8a"/>
+		<Co K="Q" U="b538aaad-7e61-11e1-b61ff20f692e0d8a"/>
+	</C>
+	<C Type="CalendarEntry" V="70" U="b684648e-7e61-11e1-b661f20f692e0d8a" Title="Zielone Świątki" Nio="2" Mode="1" Month="6" Day="9" Month2="1" Day2="1" EasterOffset="50" WeekDayInMonth="1">
+		<Co K="I" U="b684648d-7e61-11e1-b662f20f692e0d8a"/>
+		<Co K="Q" U="b684648e-7e61-11e1-b662f20f692e0d8a"/>
+	</C>
+	<C Type="CalendarEntry" V="70" U="b684648e-7e61-11e1-b661f20f692e0d8a" Title="Boże Ciało" Nio="2" Mode="1" Month="6" Day="7" Month2="1" Day2="1" EasterOffset="60" WeekDayInMonth="1">
+		<Co K="I" U="b684648d-7e61-11e1-b662f20f692e0d8a"/>
+		<Co K="Q" U="b684648e-7e61-11e1-b662f20f692e0d8a"/>
+	</C>
+	<C Type="CalendarEntry" V="70" U="b72e120e-7e61-11e1-b6a4f20f692e0d8a" Title="Wniebowzięcie Najświętszej Maryi Panny" Nio="2" Month="8" Day="15" Month2="1" Day2="1" WeekDayInMonth="1">
+		<Co K="I" U="b72e120d-7e61-11e1-b6a5f20f692e0d8a"/>
+		<Co K="Q" U="b72e120e-7e61-11e1-b6a5f20f692e0d8a"/>
+	</C>
+	<C Type="CalendarEntry" V="70" U="b89431be-7e61-11e1-b6eaf20f692e0d8a" Title="Dzień Wszystkich Świętych" Nio="2" Month="11" Day="1" Month2="1" Day2="1" WeekDayInMonth="1">
+		<Co K="I" U="b89431bd-7e61-11e1-b6ebf20f692e0d8a"/>
+		<Co K="Q" U="b89431be-7e61-11e1-b6ebf20f692e0d8a"/>
+	</C>
+	<C Type="CalendarEntry" V="70" U="b99044fe-7e61-11e1-b72df20f692e0d8a" Title="Święto Niepodległości" Nio="2" Month="11" Day="11" Month2="1" Day2="1" WeekDayInMonth="1">
+		<Co K="I" U="b99044fd-7e61-11e1-b72ef20f692e0d8a"/>
+		<Co K="Q" U="b99044fe-7e61-11e1-b72ef20f692e0d8a"/>
+	</C>
+	<C Type="CalendarEntry" V="70" U="b9ef7bfe-7e61-11e1-b773f20f692e0d8a" Title="Wigilnia świąt Bożego Narodzenia" Nio="2" Month="12" Day="24" Month2="1" Day2="1" WeekDayInMonth="1">
+		<Co K="I" U="b9ef7bfd-7e61-11e1-b774f20f692e0d8a"/>
+		<Co K="Q" U="b9ef7bfe-7e61-11e1-b774f20f692e0d8a"/>
+	</C>
+	<C Type="CalendarEntry" V="70" U="b9ef7bfe-7e61-11e1-b773f20f692e0d8a" Title="Pierwszy dzień świąt Bożego Narodzenia" Nio="2" Month="12" Day="25" Month2="1" Day2="1" WeekDayInMonth="1">
+		<Co K="I" U="b9ef7bfd-7e61-11e1-b774f20f692e0d8a"/>
+		<Co K="Q" U="b9ef7bfe-7e61-11e1-b774f20f692e0d8a"/>
+	</C>
+	<C Type="CalendarEntry" V="70" U="5f2257c9-7e63-11e1-bddaf20f692e0d8a" Title="Drugi dzień świąt Bożego Narodzenia" Nio="2" Month="12" Day="26" Month2="1" Day2="1" WeekDayInMonth="1">
+		<Co K="I" U="5f2257c8-7e63-11e1-bddbf20f692e0d8a"/>
+		<Co K="Q" U="5f2257c9-7e63-11e1-bddbf20f692e0d8a"/>
+	</C>
+</ControlList>
