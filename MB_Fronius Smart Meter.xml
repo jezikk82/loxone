@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Modbus Title="Fronius Smart Meter" Comment="" Channel="240">
+	<ModbusCmd Title="A"           Comment="AC Total Current value"            		   ModbusAddress="40071" ModbusCmd="3" ModbusDataType="100" ModbusPollingCycle="5" Unit="&lt;v.1&gt; A" Analog="true" Sensor="true"/>
+	<ModbusCmd Title="PhV"         Comment="AC Voltage Average Phase-to-neutral value" ModbusAddress="40079" ModbusCmd="3" ModbusDataType="100" ModbusPollingCycle="5" Unit="&lt;v.1&gt; V" Analog="true" Sensor="true"/>
+	<ModbusCmd Title="PPV"         Comment="AC Voltage Average Phase-to-phase value"   ModbusAddress="40087" ModbusCmd="3" ModbusDataType="100" ModbusPollingCycle="5" Unit="&lt;v.1&gt; V" Analog="true" Sensor="true"/>
+	<ModbusCmd Title="Hz"          Comment="AC Frequency value"                ModbusAddress="40095" ModbusCmd="3" ModbusDataType="100" ModbusPollingCycle="5" Unit="&lt;v.2&gt; Hz" Analog="true" Sensor="true"/>
+	<ModbusCmd Title="W"           Comment="AC power value"                    ModbusAddress="40097" ModbusCmd="3" ModbusDataType="100" ModbusPollingCycle="5" Unit="&lt;v.3&gt; kW" Analog="true" Sensor="true"/>
+	<ModbusCmd Title="WphA"        Comment="AC power Phase A value"            ModbusAddress="40099" ModbusCmd="3" ModbusDataType="100" ModbusPollingCycle="5" Unit="&lt;v.3&gt; kW" Analog="true" Sensor="true" SourceValHigh="1000" DestValHigh="1"/>
+	<ModbusCmd Title="WphB"        Comment="AC power Phase B value"            ModbusAddress="40101" ModbusCmd="3" ModbusDataType="100" ModbusPollingCycle="5" Unit="&lt;v.3&gt; kW" Analog="true" Sensor="true" SourceValHigh="1000" DestValHigh="1"/>	
+	<ModbusCmd Title="WphC"        Comment="AC power Phase C value"            ModbusAddress="40103" ModbusCmd="3" ModbusDataType="100" ModbusPollingCycle="5" Unit="&lt;v.3&gt; kW" Analog="true" Sensor="true" SourceValHigh="1000" DestValHigh="1"/>
+	<ModbusCmd Title="PF"          Comment="Power Factor value"                ModbusAddress="40121" ModbusCmd="3" ModbusDataType="100" ModbusPollingCycle="5" Unit="&lt;v.2&gt; %"  Analog="true" Sensor="true"/>
+	<ModbusCmd Title="TotWhExp"    Comment="Total watt-hours exported"         ModbusAddress="40129" ModbusCmd="3" ModbusDataType="100" ModbusPollingCycle="5" Unit="&lt;v.2&gt; kWh" Analog="true" Sensor="true" SourceValHigh="1000" DestValHigh="1"/>
+	<ModbusCmd Title="TotWhExpPhA" Comment="Total watt-hours exported Phase A" ModbusAddress="40131" ModbusCmd="3" ModbusDataType="100" ModbusPollingCycle="5" Unit="&lt;v&gt; kWh"  Analog="true" Sensor="true" SourceValHigh="1000" DestValHigh="1"/>
+	<ModbusCmd Title="TotWhExpPhB" Comment="Total watt-hours exported Phase B" ModbusAddress="40133" ModbusCmd="3" ModbusDataType="100" ModbusPollingCycle="5" Unit="&lt;v&gt; kWh"  Analog="true" Sensor="true" SourceValHigh="1000" DestValHigh="1"/>
+	<ModbusCmd Title="TotWhExpPhC" Comment="Total watt-hours exported Phase C" ModbusAddress="40135" ModbusCmd="3" ModbusDataType="100" ModbusPollingCycle="5" Unit="&lt;v&gt; kWh"  Analog="true" Sensor="true" SourceValHigh="1000" DestValHigh="1"/>
+	<ModbusCmd Title="TotWhImp"    Comment="Total watt-hours imported"         ModbusAddress="40137" ModbusCmd="3" ModbusDataType="100" ModbusPollingCycle="5" Unit="&lt;v.2&gt; kWh" Analog="true" Sensor="true" SourceValHigh="1000" DestValHigh="1"/>
+	<ModbusCmd Title="TotWhImpPhA" Comment="Total watt-hours imported Phase A" ModbusAddress="40139" ModbusCmd="3" ModbusDataType="100" ModbusPollingCycle="5" Unit="&lt;v&gt; kWh"  Analog="true" Sensor="true" SourceValHigh="1000" DestValHigh="1"/>
+	<ModbusCmd Title="TotWhImpPhB" Comment="Total watt-hours imported Phase B" ModbusAddress="40141" ModbusCmd="3" ModbusDataType="100" ModbusPollingCycle="5" Unit="&lt;v&gt; kWh"  Analog="true" Sensor="true" SourceValHigh="1000" DestValHigh="1"/>
+	<ModbusCmd Title="TotWhImpPhC" Comment="Total watt-hours imported Phase C" ModbusAddress="40143" ModbusCmd="3" ModbusDataType="100" ModbusPollingCycle="5" Unit="&lt;v&gt; kWh"  Analog="true" Sensor="true" SourceValHigh="1000" DestValHigh="1"/>
+</Modbus>
